@@ -25,7 +25,7 @@ SECRET_KEY = 'ean(e(@h9z7zwy-&9@@tfni=z-f^eaew&(=vept=($+5$0fd$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.0.102','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
