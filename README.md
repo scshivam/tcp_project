@@ -1,2 +1,2 @@
 # tcp_project
-A project for TCP Connection in python
+A test project for TCP Connection in python
